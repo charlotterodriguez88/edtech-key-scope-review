@@ -68,3 +68,7 @@ That's the minimal version. Before running this for real: The details below appl
 
 **Edtech Key Scope Review: PDF**
 - **Edtech Key Scope Review:** Generation draws on credit; large/complex documents cost more — watch `GET /v1/account/usage`.
+
+## Further reading
+
+- [API Budget Telemetry: Node.js Scheduling for Auditable Tenant Headroom](docs/api-budget-telemetry-node-js-scheduling-for-audit-w0rwci.md)
